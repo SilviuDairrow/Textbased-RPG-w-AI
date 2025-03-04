@@ -1,2 +1,2 @@
 # Textbased-RPG-w-AI
-Proiect realizat pentru a învăța cum să implementez interfața pentru utilizator în C# WinUI3, implementarea unui LLM pentru parsarea input-ului și utilizarea unui AI local pentru decizii și generare de imagini conform acțiunii.
+Această aplicație a fost realizată în C# WinUI3 ca și proiect pentru a învăța cum să proiectez corect o interfață pentru utlizator, utilizarea unui LLM pentru parsarea input-ului jucătorului și implementarea unui AI local pentru a decide veritabilitatea acțiunilor jucătorului și generarea unei imagini pentru a oferi un impact vizual acestuia conform acțiunii în desfășurare. 
